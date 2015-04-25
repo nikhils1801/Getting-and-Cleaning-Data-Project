@@ -1,4 +1,3 @@
-
 #loading the train data
 subject_train<-read.table(".//UCI HAR Dataset//train//subject_train.txt")
 x_train<-read.table(".//UCI HAR Dataset//train//X_train.txt")
